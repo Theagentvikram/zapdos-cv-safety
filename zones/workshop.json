@@ -1,0 +1,5 @@
+{
+  "coordinates": "normalized",
+  "purpose": "Assessment demo policy: rotor work area; drawn from the local clip, not an actual plant restriction.",
+  "zones": [{"id": "rotor_work_area", "polygon": [[0.16, 0.68], [0.42, 0.68], [0.50, 0.99], [0.10, 0.99]]}]
+}

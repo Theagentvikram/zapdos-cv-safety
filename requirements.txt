@@ -1,0 +1,11 @@
+# Validated environment: Python 3.12, CPU. Pin tracker APIs used by this project.
+ultralytics==8.4.190
+torch==2.8.0
+torchvision==0.23.0
+onnxruntime==1.27.0
+numpy==2.5.0
+PyYAML==6.0.3
+# Use one OpenCV distribution in a clean environment.
+opencv-python-headless==4.13.0.92
+# Optional model export (--imgsz or missing ONNX graph).
+onnx==1.23.2

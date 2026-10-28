@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+tmp/
+out/
+out_*/
+labels/
+metrics.json
+.env
+.env.*
+!.env.example
+*.log

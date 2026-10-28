@@ -1,0 +1,5 @@
+{
+  "coordinates": "normalized",
+  "purpose": "Assessment demo policy: ladle service aisle; not an actual plant restriction.",
+  "zones": [{"id": "ladle_service_aisle", "polygon": [[0.18, 0.52], [0.29, 0.53], [0.31, 0.99], [0.16, 0.99]]}]
+}
