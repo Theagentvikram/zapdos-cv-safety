@@ -1,0 +1,40 @@
+{
+  "input_res": "1920x1080",
+  "source_fps": 25.0,
+  "process_fps": 10,
+  "detector": "yolo8s_736x1280.mlpackage on coreml-cpu_and_ne",
+  "helmet_classifier": "onnxruntime-cpu",
+  "frames_decoded": 349,
+  "frames_processed": 140,
+  "wall_s": 4.1,
+  "video_s": 13.96,
+  "throughput_fps": 34.1,
+  "pipeline_ms_per_frame": 28.2,
+  "streams_at_process_fps": 3.55,
+  "stages": {
+    "decode": {
+      "mean_ms": 2.7,
+      "p95_ms": 7.3
+    },
+    "detect": {
+      "mean_ms": 23.2,
+      "p95_ms": 34.5
+    },
+    "track": {
+      "mean_ms": 0.3,
+      "p95_ms": 0.6
+    },
+    "helmet": {
+      "mean_ms": 1.9,
+      "p95_ms": 3.2
+    },
+    "rules": {
+      "mean_ms": 0.1,
+      "p95_ms": 0.1
+    },
+    "media": {
+      "mean_ms": 1.1,
+      "p95_ms": 0.5
+    }
+  }
+}

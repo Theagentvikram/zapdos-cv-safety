@@ -1,5 +1,0 @@
-{
-  "coordinates": "normalized",
-  "purpose": "Assessment demo policy: conveyor maintenance floor; feet hidden by foreground equipment are marked unknown in camera config.",
-  "zones": [{"id": "conveyor_maintenance", "polygon": [[0.43, 0.64], [0.68, 0.60], [0.73, 0.90], [0.48, 0.99]]}]
-}

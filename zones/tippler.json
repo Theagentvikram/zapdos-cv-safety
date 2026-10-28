@@ -1,5 +1,0 @@
-{
-  "coordinates": "normalized",
-  "purpose": "Assessment demo policy: keep clear of the tippler operating floor; not a supplied factory safety boundary.",
-  "zones": [{"id": "tippler_operating_floor", "polygon": [[0.60, 0.73], [0.80, 0.76], [0.84, 0.98], [0.52, 0.94]]}]
-}
